@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Build output
+build/
+dist/
